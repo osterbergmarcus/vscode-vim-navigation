@@ -1,6 +1,8 @@
 # vscode-vim-navigation
 
 ### Simple keybindings for improving side bar/panel/lists navigation
+Move around more freely using `ctrl+h/j/k/l` or map your own keys
+
 Features:
 - Move around in file explorer and modify files/folders (inspired by NERDtree)
 - Navigate find in files search results
@@ -11,9 +13,9 @@ Features:
 - Navigate command palette result list
 - Navigate suggestions list
 
-### Use in conjunction with [VSCodeVim](https://github.com/VSCodeVim) for a better VSCode+vim experience.
+Nice to have features:
+- Jump between side bar/panel/workbench
 
-Missing features:
-- Jump between side bar/panel/workbench using e.g. `ctrl+h/j/k/l`
+### Use together with [VSCodeVim](https://github.com/VSCodeVim) for a better VSCode+vim experience.
 
 Feel free to open PR for improvements. Also Say hi on [twitter](https://twitter.com/osterbergmarcus)!
