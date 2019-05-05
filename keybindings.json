@@ -152,11 +152,11 @@
   {
     "key": "ctrl+j",
     "command": "list.focusDown",
-    "when": "problemsViewFocus"
+    "when": "panelFocus && problemsViewFocus"
   },
   {
     "key": "ctrl+k",
     "command": "list.focusUp",
-    "when": "problemsViewFocus"
+    "when": "panelFocus && problemsViewFocus"
   }
 ]
